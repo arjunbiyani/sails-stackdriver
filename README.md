@@ -1,2 +1,3 @@
-# sails-stackdriver
-GCP integration for stack driver (Logging)
+# google-stackdriver
+
+a [Sails](http://sailsjs.org) application
